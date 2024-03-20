@@ -5,7 +5,7 @@ export default function Hero() {
     <section className="hero">
       <img
         className="hero--photo"
-        src="../images/photo-grid.png"
+        src="../public/photo-grid.png"
         alt="photo grid"
       />
       <h1 className="hero--header">Online Experiences</h1>
